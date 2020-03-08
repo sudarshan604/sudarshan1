@@ -8,4 +8,5 @@ void main()
     printf("enter second  number");
     scanf("%d",&b);
     printf("multiple of %d and %d :",%d);
+    getch();
 }
