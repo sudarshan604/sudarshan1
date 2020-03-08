@@ -7,5 +7,5 @@ void main()
     scanf("%d",&a);
     printf("enter second  number");
     scanf("%d",&b);
-
+    printf("multiple of %d and %d :",%d);
 }
